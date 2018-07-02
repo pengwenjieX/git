@@ -3,4 +3,8 @@
 于是悲欢离合人静默
 等一等这些伤会自由
 creat a new branch
-creating a new branch is quick & simple
+<<<<<<< HEAD
+creating a new branch is quick and simple
+=======
+creating a new branch is quick and simple
+>>>>>>> feature1
